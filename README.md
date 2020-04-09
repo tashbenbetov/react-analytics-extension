@@ -1,2 +1,1 @@
-# tashbenbetov
-React analytics extension
+# React analytics extension
